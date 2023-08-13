@@ -1,0 +1,3 @@
+Name:Harshita Gupta
+Skills:HTML,CSS,JS,React js, Python
+Email:harshitag1623@gmail.com
